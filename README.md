@@ -1,2 +1,3 @@
 # EDU10-CV
-dd
+EDU.10 Web Development Bootcamp
+HTML5 CV Assignment
